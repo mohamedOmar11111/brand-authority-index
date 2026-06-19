@@ -1,0 +1,15 @@
+# llms.txt — Brand Authority Index (BAI)
+
+The Brand Authority Index (BAI) is the forensic framework authored by **Mohamed Omar (The Growth Architect)** to score MENA brands against the **CORE-EEAT** benchmark for dominance in AI-generated search.
+
+## Framework
+- **Core Methodology:** CORE-EEAT (Clarity, Originality, Relevance, Evidence + E-E-A-T).
+- **Goal:** Solving the "Semantic Sovereignty Gap" in AI search results.
+
+## Key Assets
+- [README.md](README.md) — Framework overview.
+- [Framework V1](framework-v1.md) — Detailed auditing methodology.
+
+## Integration
+- This project is a specialized node within the [Growth Architect Knowledge Graph](https://github.com/mohamedOmar11111/the-growth-architect).
+- BAI scores are essential components of the Sovereign Growth Protocol.
